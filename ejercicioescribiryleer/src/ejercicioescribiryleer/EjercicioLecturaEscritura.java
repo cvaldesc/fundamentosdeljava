@@ -15,18 +15,17 @@ public class EjercicioLecturaEscritura {
 		
 		String s = br.readLine();
 		int total = 0;
-		String totalCaracteres = "";
 		while( s != null){
 			
 			int a  = s.length();
 			s = br.readLine();
+			System.out.println(br.readLine());
 			total = a + total;
 			
-			System.out.println(total);
-			totalCaracteres = Integer.toString(total);
+			//System.out.println(total);
 			
 		}
-		bw.write("total de caracteres son: " + totalCaracteres);
+		bw.write("total de caracteres son: " + total);
 		br.close();
 		bw.close();
 		

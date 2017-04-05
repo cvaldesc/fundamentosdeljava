@@ -1,0 +1,58 @@
+El caracter 'L' ha aparecido 4 veces.
+El caracter 'a' ha aparecido 379 veces.
+El caracter ' ' ha aparecido 826 veces.
+El caracter 'C' ha aparecido 6 veces.
+El caracter 'n' ha aparecido 210 veces.
+El caracter 't' ha aparecido 144 veces.
+El caracter 'd' ha aparecido 184 veces.
+El caracter 'e' ha aparecido 400 veces.
+El caracter 'l' ha aparecido 179 veces.
+El caracter 'D' ha aparecido 21 veces.
+El caracter 'i' ha aparecido 251 veces.
+El caracter 'b' ha aparecido 38 veces.
+El caracter 'o' ha aparecido 299 veces.
+El caracter '' ha aparecido 151 veces.
+El caracter '
+' ha aparecido 151 veces.
+El caracter 'c' ha aparecido 103 veces.
+El caracter 'h' ha aparecido 34 veces.
+El caracter ',' ha aparecido 113 veces.
+El caracter 'r' ha aparecido 212 veces.
+El caracter 'u' ha aparecido 166 veces.
+El caracter 's' ha aparecido 267 veces.
+El caracter 'y' ha aparecido 71 veces.
+El caracter 'z' ha aparecido 13 veces.
+El caracter 'f' ha aparecido 15 veces.
+El caracter 'í' ha aparecido 21 veces.
+El caracter 'm' ha aparecido 98 veces.
+El caracter 'p' ha aparecido 53 veces.
+El caracter 'g' ha aparecido 30 veces.
+El caracter 'ó' ha aparecido 17 veces.
+El caracter 'ñ' ha aparecido 8 veces.
+El caracter 'v' ha aparecido 46 veces.
+El caracter 'q' ha aparecido 41 veces.
+El caracter 'é' ha aparecido 20 veces.
+El caracter '.' ha aparecido 36 veces.
+El caracter 'E' ha aparecido 7 veces.
+El caracter 'ú' ha aparecido 2 veces.
+El caracter 'á' ha aparecido 20 veces.
+El caracter 'G' ha aparecido 3 veces.
+El caracter 'M' ha aparecido 8 veces.
+El caracter 'Q' ha aparecido 4 veces.
+El caracter '-' ha aparecido 2 veces.
+El caracter 'R' ha aparecido 2 veces.
+El caracter 'S' ha aparecido 4 veces.
+El caracter 'I' ha aparecido 1 veces.
+El caracter 'H' ha aparecido 21 veces.
+El caracter 'j' ha aparecido 9 veces.
+El caracter 'A' ha aparecido 3 veces.
+El caracter 'P' ha aparecido 6 veces.
+El caracter '¡' ha aparecido 2 veces.
+El caracter '!' ha aparecido 2 veces.
+El caracter 'Y' ha aparecido 1 veces.
+El caracter 'B' ha aparecido 1 veces.
+El caracter '¿' ha aparecido 6 veces.
+El caracter '?' ha aparecido 6 veces.
+El caracter 'N' ha aparecido 2 veces.
+El caracter 'T' ha aparecido 1 veces.
+El caracter 'x' ha aparecido 1 veces.
